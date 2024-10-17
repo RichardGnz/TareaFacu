@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function validarNota(nota) {
     switch (true) {
         case (nota >= 60):
@@ -13,3 +14,14 @@ function validarNota(nota) {
 }
 
 validarNota(59);
+=======
+
+function sumar (a, b){
+    return a + b;
+}
+
+let Total = sumar (10, 20);
+
+console.log('Total :' + Total );
+
+>>>>>>> b006790 (Agrego nueva carpeta y archivo)
